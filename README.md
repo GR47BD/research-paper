@@ -1,0 +1,4 @@
+# Research-Paper
+Instead of containing the code for the research paper, this repository will act as a place to leave feedback/ideas or academic papers (The ones you find that are useful), so that everyone has all the resources related to the paper at hand. So, if you are assigned anything that does not require physically editing the paper, then please upload your research/work here, so that everyone can view it.
+# How to use
+I think the directory structure is quite self-explanatory, the only things worth noting is that the file 'vgtc_journal_latex_template.zip' is, simply, the latex template that was previously uploaded here. Moreover, the layouts folder contains rough layouts of the given sections to ensure that while editing you have a rought idea of things before your paragraph and after...
